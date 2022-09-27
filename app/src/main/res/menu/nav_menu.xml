@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_about"
+        android:icon="@drawable/about_menu_icon"
+        android:title="About"/>
+
+    <item android:id="@+id/menu_call"
+        android:icon="@drawable/call_menu_icon"
+        android:title="Call"/>
+
+    <item android:id="@+id/menu_contact"
+        android:icon="@drawable/contacts_menu_icon"
+        android:title="Contact"/>
+
+    <item android:id="@+id/menu_maps"
+        android:icon="@drawable/maps_menu_icon"
+        android:title="Maps"/>
+
+
+</menu>
